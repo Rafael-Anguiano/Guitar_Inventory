@@ -1,9 +1,9 @@
 # Guitar_Inventory
 
 ## Description
-Desarrollo de una simulación en consola de un inventario de tienda de guitarras realizado en C++.
- - Desarrollé funcionalidades para agregar y guardar registros de inventario en un documento aparte.
- - Implementé funciones para la lectura, búsqueda de datos y ordenamiento del documento generado.
+ Development of a console simulation of a guitar shop inventory made in C++.
+ - Developed functionalities to add and save inventory records in a separate document.
+ - I implemented functions for reading, data search and ordering of the generated document.
 
 ---
 
